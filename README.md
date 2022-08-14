@@ -78,11 +78,7 @@ The video shown demonstrates iTAD’s current mapping abilities. As iTAD, denote
 
 </p>
 
-
-
-
 https://user-images.githubusercontent.com/35279249/184552282-5e54822b-e0f5-4f1f-b2eb-ef36244b4058.mp4
-
 
 
 [Back To The Top](#project)
@@ -114,11 +110,17 @@ PCB for the PWM and the Odroid section of iTAD.
 There was no prior schematic given to us for the existing robot so I had to design and verfiy both the communication and motor schematic. The image below showcases the two schematics that were genereated using CircuitMaker.
 </p>
 
-<p float="left" align="center">
-<img width='300'src= "images/communication-schematic.png" alt="Communication Schematic"/>
-<img width='300'src= "images/power-schematic.png" alt="Power Schematic">
-</p>
-<figcaption>The first image is the Communication Schematic and the second images displays the Power Schematic</figcaption
+<table>
+  <tr align='center'>
+    <td>Communication Schematic</td>
+     <td>Power Schematic</td>
+  </tr>
+  <tr>
+    <td><img src="images/Communication-Schematic.png" width=500></td>
+    <td><img src="images/Power Schematic.png" width=500></td>
+  </tr>
+ </table>
+
 
 <h3><u>Summary</u></h3>
 
@@ -128,10 +130,10 @@ overview that shows how a PCB will be used to better the wire
 organization of the robot. It can be seen below in Figure 1.
 </p>
 
-<figure align='center'>
- <img src= "images/Odroid-PWM-Integration.png" alt="Figure 1: Visual integration of visible wires between the Odroid and PWM">
- <figcaption>Figure 1: Visual integration of visible wires between the Odroid and PWM</figcaption>
-</figure>
+
+ <img align='center' src= "images/Odroid-PWM-Integration.png" alt="Figure 1: Visual integration of visible wires between the Odroid and PWM">
+
+
 
 <p style='text-align'>
 From this vision, a schematic was created along with a table of components,
