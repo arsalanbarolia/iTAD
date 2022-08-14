@@ -129,7 +129,7 @@ organization of the robot. It can be seen below in Figure 1.
 </p>
 
  <img align='center' src= "images/Odroid-PWM-Integration.png" alt="Figure 1: Visual integration of visible wires between the Odroid and PWM">
-
+<p align='center'> Figure 1: Visual integration of visible wires between the Odroid and PWM</p>
 <p style='text-align'>
 From this vision, a schematic was created along with a table of components,
 Figure 2 and Table 1, respectively.
@@ -137,11 +137,12 @@ Figure 2 and Table 1, respectively.
 
 <figure align='center'>
  <img src= "images/AutoCAD-Eagle-Schematic.png" alt="Figure 2: Schematic of PCB for Odroid and PWM wire management">
- <figcaption>Figure 2: Schematic of PCB for Odroid and PWM wire management</figcaption>
 </figure>
+<p align='center'>Figure 2: Schematic of PCB for Odroid and PWM wire management</p>
+<p></p>
 
+<p align='center'>Table 1: List of components that will be mounted on the PCB</p>
 <figure align='center'>
- <figcaption>Table 1: List of components that will be mounted on the PCB</figcaption>
  <img src= "images/Components.png" alt="List of components that will be mounted on the PCB">
 </figure>
 
@@ -161,8 +162,9 @@ After self learning EAGLE and the use of various important libraries, I was able
 
 <figure align='center'>
  <img src= "images/internalwiring.png" alt="Figure 3: Finalized board layout along with its physical connections">
- <figcaption>Figure 3: Finalized board layout along with its physical connections</figcaption>
 </figure>
+
+<p align='center'>Figure 3: Finalized board layout along with its physical connections</p>
 
 <p style='text-align: justify; text-indent: 1cm'>
 Labels and text were also added using the text function on EAGLE that
@@ -179,8 +181,8 @@ Thus, the board was ready to be manufactured and sent to PCBway. Figure 4 displa
 
 <figure align='center'>
  <img src= "images/pcb-specification.png" alt="Figure 4 Product detail of the PCB sent to PCBway based on the Gerber Files">
- <figcaption>Figure 4: Product detail of the PCB sent to PCBway based on the Gerber Files</figcaption>
 </figure>
+<p align='center'>Figure 4: Product detail of the PCB sent to PCBway based on the Gerber Files</p>
 
 <p style='text-align: justify; text-indent: 1cm'>
 These specifications were chosen and selected based on the Gerber files sent.
@@ -191,8 +193,9 @@ an example of the Gerber file for my board layout.
 
 <figure align='center'>
  <img src= "images/gerberviewer.png" alt="Figure 5 My PCB Gerber file using an online Gerber viewer">
- <figcaption>Figure 5: My PCB Gerber file using an online Gerber viewer</figcaption>
+ 
 </figure>
+<p align='center'>Figure 5: My PCB Gerber file using an online Gerber viewer</p>
 
 <p style='text-align: justify; text-indent: 1cm'>
 This Gerber file was viewed using an online Gerber viewer. It is very impor-
@@ -209,8 +212,9 @@ Figure 6, an image of the PCB manufactured is shown.
 
 <figure align='center'>
  <img src= "images/finalproduct.png" alt="Figure 6: Manufactured PCB from PCBway">
- <figcaption>Figure 6: Manufactured PCB from PCBway</figcaption>
 </figure>
+ <p align='center'>Figure 6: Manufactured PCB from PCBway</p>
+ <p></p>
 
 [Back To The Top](#project)
 
