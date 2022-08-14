@@ -78,12 +78,12 @@ The video shown demonstrates iTAD’s current mapping abilities. As iTAD, denote
 
 </p>
 
-<center>
-<video width='500' muted controls>
-    <source src="mapping/iTAD-LiDAR-Mapping.mp4">
-</video>
-</center>
-<p></p>
+
+
+
+https://user-images.githubusercontent.com/35279249/184552282-5e54822b-e0f5-4f1f-b2eb-ef36244b4058.mp4
+
+
 
 [Back To The Top](#project)
 
