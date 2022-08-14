@@ -15,7 +15,7 @@
 - [Description](#description)
 - [Features](#features)
 - [My Contribution](#my-contribution)
-- [Contributions](#contributions)
+- [Team Contribution](#team-contribution)
 - [Author Info](#author-info)
 
 ---
@@ -220,7 +220,7 @@ Figure 6, an image of the PCB manufactured is shown.
 
 ---
 
-## Contributions
+## Team Contribution
 
 <h4>Class of 2020 MAAE 4907 at Carleton University</h4>
 - Team of 25 students
