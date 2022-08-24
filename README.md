@@ -2,14 +2,13 @@
 
 # Intelligent Telepresence Assistive Device (iTAD)
 
-> > A more detailed and thorough walk-through of the wiring and PCB production process can be found in [Final Report](files/FinalReport.pdf).
-
 <p align="center">
     <img src="images/iTAD.jpg" width="400" height="460" />
 </p>
 
 > Intelligent Telepresence Assistive Device (iTAD) in a netural state.
 
+> A more detailed and thorough walk-through of the wiring and PCB production process can be found in [Final Report](files/FinalReport.pdf).
 ---
 
 ### Table of Contents
