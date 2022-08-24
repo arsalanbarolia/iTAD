@@ -2,6 +2,8 @@
 
 # Intelligent Telepresence Assistive Device (iTAD)
 
+> > A more detailed and thorough walk-through of the wiring and PCB production process can be found in [Final Report](files/FinalReport.pdf).
+
 <p align="center">
     <img src="images/iTAD.jpg" width="400" height="460" />
 </p>
@@ -234,9 +236,9 @@ Figure 6, an image of the PCB manufactured is shown.
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
